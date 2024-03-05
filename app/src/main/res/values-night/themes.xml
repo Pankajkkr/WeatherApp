@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--created by pankaj kumar singh
+                   06/02/2024 -->
+    <style name="Theme.Weather" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+
+    </style>
+</resources>
